@@ -1,0 +1,2 @@
+Olá, mundo! Este é um exemplo de texto com caracteres especiais como: á, é, í, ó, ú, ç, ã, ê, ü, ñ, και ελληνικά.
+Este texto também contém emojis: 😀🚀🌍

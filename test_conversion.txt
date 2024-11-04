@@ -1,0 +1,1 @@
+Ola, mundo! Este e um exemplo de texto sem caracteres especiais.
